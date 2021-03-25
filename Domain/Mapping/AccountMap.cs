@@ -7,5 +7,6 @@ namespace Domain.Mapping
 {
     public class AccountMap: BaseEntityMap<Account>
     {
+        
     }
 }
